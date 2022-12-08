@@ -1,0 +1,30 @@
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csprojAssemblyReference.cache
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+U:\כיתה ו6\ENGLISH\Hodaya\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Programing\נתיבות הדסה\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\User\Desktop\projects\c#\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
